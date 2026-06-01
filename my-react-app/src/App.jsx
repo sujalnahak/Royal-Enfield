@@ -13,15 +13,15 @@ function App() {
   return (
     <>
       <Navbar />
-<Hero />
-<BikeSlider />
-<AISection />
+      <Hero />
+      <BikeSlider />
+      <AISection />
 
-<About />
-<Story />
+      <About />
+      <Story />
 
-<Reviews />
-<Contact />
+      <Reviews />
+      <Contact />
 
       <footer>
         © 2026 Royal Enfield Inspired Showcase Website
