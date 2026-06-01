@@ -6,14 +6,14 @@ function BikeSlider() {
       name: "Classic 350",
       price: "₹1,95,000",
       image:
-        "https://images.unsplash.com/photo-1558981806-ec527fa84c39?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1601574013379-a98bfb813376?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Um95YWwlMjBFbmZpZWxkJTIwY2xhc2ljJTIwMzUwfGVufDB8fDB8fHww=80",
       desc: "Retro design with smooth modern performance.",
     },
     {
       name: "Himalayan 450",
       price: "₹2,85,000",
       image:
-        "https://images.unsplash.com/photo-1517846693594-1567da72af75?auto=format&fit=crop&w=1200&q=80",
+        "https://images.unsplash.com/photo-1699972551272-e0eaee1916b2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Um95YWwlMjBFbmZpZWxkJTIwaGltYWxheWFuJTIwNDUwfGVufDB8fDB8fHww=80",
       desc: "Adventure-ready machine for every terrain.",
     },
     {
