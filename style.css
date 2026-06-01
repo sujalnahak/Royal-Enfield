@@ -1,0 +1,98 @@
+body{
+  background: var(--cream);
+  color: #f5f5f5;
+  line-height: 1.6;
+}
+
+h1, h2, h3{
+  color: #ffffff;
+}
+
+.section-title{
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 40px;
+  color: #ff2d2d;
+}
+
+.box,
+.bike-card,
+.review,
+.modal-content{
+  background: #1a1a1a;
+  color: #f5f5f5;
+  box-shadow: 0 10px 30px rgba(255, 0, 0, 0.12);
+}
+
+nav a{
+  color: #ffffff;
+}
+
+nav a:hover{
+  color: #ff2d2d;
+}
+
+.logo{
+  font-size: 28px;
+  font-weight: 800;
+  color: #ff2d2d;
+}
+
+.btn{
+  background: linear-gradient(135deg, #ff1a1a, #b30000);
+  color: #ffffff;
+  border: none;
+  padding: 12px 24px;
+  border-radius: 30px;
+  cursor: pointer;
+  font-weight: 700;
+  text-decoration: none;
+  display: inline-block;
+  transition: 0.3s;
+  box-shadow: 0 6px 20px rgba(255, 0, 0, 0.3);
+}
+
+.btn:hover{
+  transform: scale(1.05);
+  box-shadow: 0 8px 25px rgba(255, 0, 0, 0.5);
+}
+
+.controls button{
+  width: 50px;
+  height: 50px;
+  border: none;
+  border-radius: 50%;
+  background: #b30000;
+  color: #ffffff;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.bar{
+  height: 8px;
+  background: #333;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.bar span{
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, #ff1a1a, #b30000);
+}
+
+#aiResult{
+  margin-top: 15px;
+  padding: 15px;
+  border-radius: 10px;
+  background: #1f1f1f;
+  color: #ffffff;
+  border-left: 4px solid #ff1a1a;
+}
+
+footer{
+  background: #000000;
+  color: #ffffff;
+  text-align: center;
+  padding: 25px;
+}
